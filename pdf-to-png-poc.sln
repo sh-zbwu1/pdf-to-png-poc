@@ -5,8 +5,6 @@ VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pdf-to-png-poc", "pdf-to-png-poc.csproj", "{0A039FF1-EAE2-4AA7-8CCB-37E309A0A58C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pdf-to-png-api-poc", "..\pdf-to-png-api-poc\pdf-to-png-api-poc.csproj", "{000E1763-2964-42BC-884F-5D4B596075BF}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{0A039FF1-EAE2-4AA7-8CCB-37E309A0A58C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A039FF1-EAE2-4AA7-8CCB-37E309A0A58C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A039FF1-EAE2-4AA7-8CCB-37E309A0A58C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{000E1763-2964-42BC-884F-5D4B596075BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{000E1763-2964-42BC-884F-5D4B596075BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{000E1763-2964-42BC-884F-5D4B596075BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{000E1763-2964-42BC-884F-5D4B596075BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
